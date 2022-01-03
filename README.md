@@ -1,0 +1,1 @@
+# PNG Dimensions Parser
